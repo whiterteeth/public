@@ -11,65 +11,66 @@ This is a fork of Buster Benson's Codex. His beliefs are not mine. I'm leaving t
 
 *If you’re LRP:*
 
-1. Regularly revisit your [Type 3 beliefs](#type-3-opinions) (opinions).
-2. At the beginning of every month, review the whole document, make any necessary edits, and write a new monthly report.
-3. At the beginning of every year archive the document and write a new yearly report.
+1. Regularly revisit your [Opinions](#type-2).
+2. At the beginning of every month, review the whole document, make any necessary changes, and write a new monthly report.
+3. At the beginning of every year, archive the document and write a new yearly report.
 
 
 ## Table of contents
 
 #### Beliefs
 
-- [Type 1: Metabeliefs: beliefs about beliefs](#type-1-metabeliefs)
-- [Type 2: Perceptions: beliefs about how reality seems to be](#type-2-perceptions)
-- [Type 3: Opinions: beliefs about the meaning of reality and how myself and others should approach life](#type-3-opinions)
-- [Type 4: Predictions: beliefs about how things will be in the future](#type-4-predictions)
+- [Type 0: Metabeliefs](#type-0): Beliefs about beliefs
+- [Type 1: Beliefs](#type-3): How reality seems to be
+- [Type 2: Opinions](#type-2): How things ought to be
+- [Type 3: Conjecture](#type-3): How things will be
 
 #### Glossary
  
-- [What is this?](#what-is-this)
-- [Codex vitæ](#codex-vitae)
+- [What is this?](#what)
+- [Codex vitæ](#codex)
 
 #### Chapters
 
-- [Quality time](#quality-time)
-- [Systems thinking](#systems-thinking)
-- [Soloverse](#soloverse)
-- [Hume’s fork](#humes-fork)
-- [Optionality](#optionality)
-- [Primes](#primes)
-- [Quantum realism](#quantum-realism)
+- …
 
-#### Personal canon
+#### Bibliography
+
 - [articles](#articles)
 - [books](#books)
 - [my writing](#my-writing)
 
-#### Changelog
-- [history of changes to this document](https://github.com/busterbenson/public/commits/master/Codex.md)
-- [monthly reports](https://github.com/busterbenson/public/blob/master/Monthly.md)
-- [yearly reports](#yearly-reports)
+#### History
+
+- [changes to this document](#)
+- [monthly reports](#)
+- [years-in-review](#)
 
 ## Beliefs
 
-### Type 0: Metabeliefs
+### <a name="type-0"></a> Type 0: Metabeliefs
 Beliefs about beliefs.
 
 - Making and maintaining this document is useful and fun.
 - It's purpose is to capture my beliefs about reality.
-- This document is incomplete.
+- This document is incomplete, and will always be a work-in-progress.
 - Any of these beliefs may be proven wrong.
 - I’m open to changing my mind at any time about any belief.
 - I organize my beliefs as follows: metabeliefs (i.e. beliefs about beliefs), beliefs about the nature of reality, opinions about justice, and conjecture about the future.
+- Behavior and belief are intimately linked:
 
-### Type 1: Beliefs
+> If you don't behave as you believe, you will end by believing as you behave.
+
+– Ven. Fulton J. Sheen
+
+### <a name="type-1"></a> Type 1: Beliefs
 How reality seems to be. **1.1** is about human nature: how the mind and senses seem to work, **1.2** is about my take on spirituality, and **1.3** is about how I think the external world is based on the information I have.
 
 #### 1.1 Beliefs on Human Nature
 Personal mental and physical abilities, constraints, and biases.
 
 - Perception/sensation is biased and limited.
-- People do not *always* have complete agency (i.e. free-will)–as in the example of a drug addict or a compulsive gambler–nor are our actions always determined. The free-will/determinism dichotomy is a false one.
+- People do not *always* have complete agency (i.e. free-will)—as in the example of a drug addict or a compulsive gambler—nor are our actions always determined. The free-will/determinism dichotomy is a false one.
 - As evidence for free-will: people have the capacity to do things of their own volition, even to change deep-seated habits (although this is almost always much harder than we imagine).
 - People are limited in their ability to know themselves, both individually and as a group, culture, or species.
 - People are not essentially rational or irrational. We have a well-developed brain affording reflective reasoning, though we also have vestiges of a faster, earlier-animal brain (Systems I & II, in the language of cognitive psychology).
@@ -81,8 +82,9 @@ Personal mental and physical abilities, constraints, and biases.
 - People have a fundamentally selfish viewpoint. Often the only pertinent information in decisions is personal consequence.
 - We also have a tendency to justify our actions. If a decision has unintended negative consequences, we are averse to taking responsibility for them.
 - This selfishness and self-justification is the essential cause of what we call evil in the world.
+- Human nature has been essentially the same for the past several thousand years, and will not change with merely shifting social mores (“progress”) or the development of technology.
 
-##### Buster's ideas that I'm not sure what to do with
+##### Buster's ideas that I'm not sure what to do with (BITINSWTDW)
 
 - We are all building an incomplete model of the universe in our heads and usually operate under the assumption that this model is the real universe (it’s just easier that way).
 - Our mental model of the universe evolved so we could better predict and act on long-term threats and opportunities. 
@@ -98,8 +100,7 @@ Personal mental and physical abilities, constraints, and biases.
 #### 1.2 Metaphysical Beliefs
 My take on the spiritual and supernatural.
 
-- We don't have a purpose given to us, but it's okay if we make one up.
-- My self-declared purpose is to enjoy quality time (with myself, with others, and with my interests) by discovering and removing obstacles that hinder quality time.
+- Our purpose is to glorify God. This can be done in many ways.
 - Frequently remembering we will die increases the quality of our life.
 - Life is already lost. The only honest way to approach it is from a perspective of gratitude.
 - Souls don't exist as separate from the physical body.
@@ -114,6 +115,12 @@ My take on the spiritual and supernatural.
 #### 1.3 Epistemological Beliefs
 Science, politics, and the universe.
 
+> The mind is its own place, and in itself can make a heaven of hell, a hell of heaven.
+ 
+–John Milton
+
+- All of the tools of epistemology (i.e. logic, empiricism, pragmatism, authority, revelation)—those things we use to get at truth—are helpful. But each have flaws and can't be relied on entirely.
+- I affirm the claims about God and Jesus Christ expressed in the Nicene Creed.
 - We probably live in a simulation (see digital realism).
 - Other dimensions and universes exist.
 - Micro and macro evolution happens.
@@ -131,11 +138,10 @@ Science, politics, and the universe.
 - Privacy is just a side effect of people not being truly connected.
 - Being good/moral increasingly becomes our default state as we learn more about the world and are more connected with others.
 - Most questions have no answer (but asking them anyway is often entertaining).
-- Logic is a helpful tool, but has flaws and can't be relied on entirely.
 - Acupuncture works, somehow.
 - Vaccinations are good for babies and society.
 
-### Type 2: Opinions
+### <a name="type-2"></a> Type 2: Opinions
 Opinions about justice, i.e. how things ought to be. **2.1** is about what how one ought to approach life, and **2.2** is about how society ought to be structured.
 
 #### 2.1 Deontological Opinions
@@ -167,47 +173,60 @@ How I believe I should approach life. These are all opt-in and apply only to mys
 #### 2.2 Political & Economical Opinions
 How I believe society should be structured.
 
-- Gay marriage should be legal everywhere (and now IS in the United States).
+- Civil unions & holy matrimony (i.e. religious marriage) should be considered as separate though similar and often overlapping things.
+- The death penalty is no longer necessary to protect society. When the death penalty is justified, vindictive retribution, which is harmful for society, is fueled. Furthermore, wrongful convictions still happen, leading to murder by the state. For these reasons, the death penalty should be indefinitely suspended.
+- Prisons should protect the public and rehabilitate inmates; this may involve both punishment and better treatment.
+- Marijuana should be legalized and regulated like alcohol; convicts serving sentences due to marijuana should be pardoned and released.
+- Education should be available to everyone who wants it.
+
+#### BITINSWTDW
+
 - Abortion should be legal everywhere.
 - Assisted suicide should be legal everywhere.
 - Health care should be available and affordable to everyone who needs it.
-- The death penalty should be used in extreme and certain cases to protect the public.
-- Prisons should be about protecting the public, not about punishment.
-- Marijuana should be legal to grow, sell, buy, and carry.
 - Owning a gun should require certification from a firearms officer verifying that they've taken a safety course, are free of criminal record, and pass a psychological mental health check every few years.
 - It should be easier and more expedient to put neglectful and irresponsible public servants in prison than the average citizen, not slower and more difficult.
 - Guaranteed basic income should be a thing available to everyone.
-- Free college education should be available to everyone who wants it.
 - Hunting endangered animals in order to raise money to conserve them is okay if it can be proven to actually work.
 
-### Type 3: Conjecture
+### <a name="type-3"></a> Type 3: Conjecture
 How I think things will be in the future, based on the approximate year I think they’ll come true.
 
 ## Glossary
  
-### What is this?
-This document was started in [April of 2012](https://github.com/busterbenson/public/blob/cb1481ae0d2458474d61d79cde6d9bef05a55a8c/Beliefs.md) by Buster Benson. I started my own in January, 2016. Maintaining this document has become one of the most treasured activities in my life. It’s a way for me to remember who I am, catch inconsistencies in how I respond to different events in the world, react to current events from a position of how I believe the world is, should be, and will become. 
+### <a name="what"></a> What is this?
+This document was started in [April of 2012](https://github.com/busterbenson/public/blob/cb1481ae0d2458474d61d79cde6d9bef05a55a8c/Beliefs.md) by Buster Benson. I started my own in January, 2016. In the latter half of 2015, as the 2016 election cycle began, I decided to opt-out from the news and use the time to revisit my personal beliefs. I found that defining my political and social beliefs required greater clarification of beliefs about my personal duties, the nature of reality and the universe. In other words, I needed to start from the bottom up. And though I admire Benson's ideas and work, I part with him in many other ways here. Nevertheless, I think his framework does provide a model for how one should re-examine and present their beliefs.
 
-### Codex vitæ
-Per [Buster Benson](http://wayoftheduck.com/codex-vitae): This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is to write a book, the Codex Vitæ or Book of Life, that represents everything I have learned in my life. If I lost all of my memories somehow, this could be something that helped me remember who I am. 
+So this is a way for me to learn about who I am, to catch inconsistencies in how I respond to ideas and events, to learn how to react to current events within the context of what I believe.
+
+### <a name="codex"></a> Codex vitæ
+Again, per [Buster Benson](http://wayoftheduck.com/codex-vitae):
+
+> This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is to write a book, the Codex Vitæ or Book of Life, that represents everything I have learned in my life. If I lost all of my memories somehow, this could be something that helped me remember who I am. 
 
 ## Personal canon
 
 ### Articles 
-Writing I've loved and come back to a bunch of times.
+Writing I've loved and revisit often.
+
+#### On Being & Meaning
 
 * [This is Water](http://metastatic.org/text/This%20is%20Water.pdf), David Foster Wallace
+
+#### On Design
+
 * [The Web's Grain](http://frankchimero.com/talks/the-webs-grain/transcript/), Frank Chimero
 * [The Bomb in the Garden](http://unitscale.com/mb/bomb-in-the-garden/), Matthew Butterick
 
 
 ### Books 
-Each of these books has changed how I see the world.
+… that changed how I viewed the world.
 
-* 
+* Mere Christianity, C.S. Lewis
+* Orthodoxy, G.K. Chesterton
 
 ### My writing
-Stuff that I've written that means something to me.
+… that has had some impact, or means something to me.
 
 * 
 
