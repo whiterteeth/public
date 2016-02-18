@@ -1,13 +1,15 @@
 # Codex Vitæ
 
+**Last revision**: February 17, 2016
+
 #### Important Notice
 
 This is a fork of Buster Benson's Codex. His beliefs are not mine. I'm leaving them here as a model for how I ought to go about replacing them with my own. That may take some time. To avoid any confusion, assume that no one is holding the beliefs below until this notice has been removed.
 
 #### Instructions
 
-- *If you’re a first time reader:* read the [Glossary](#glossary) for a general intro to my favorite ideas, starting with [What is this?](#what-is-this), then come back and read through the [Beliefs](#beliefs) that seem interesting to you. 
-- *If you're a returning reader:* check the [Changelog](https://github.com/busterbenson/public/commits/master/Codex.md) for updates since you last visited.
+- *If you’re a first time reader:* read the [Glossary](#glossary) for a general intro to my favorite ideas, starting with [What is this?](#what), then come back and read through the [Beliefs](#beliefs) that seem interesting to you. 
+- *If you're a returning reader:* check the [Changelog](#) for updates since you last visited.
 
 *If you’re LRP:*
 
@@ -46,7 +48,7 @@ This is a fork of Buster Benson's Codex. His beliefs are not mine. I'm leaving t
 - [monthly reports](#)
 - [years-in-review](#)
 
-## Beliefs
+## <a name="beliefs"></a> Beliefs
 
 ### <a name="type-0"></a> Type 0: Metabeliefs
 Beliefs about beliefs.
@@ -69,11 +71,11 @@ How reality seems to be. **1.1** is about human nature: how the mind and senses 
 #### 1.1 Beliefs on Human Nature
 Personal mental and physical abilities, constraints, and biases.
 
-- Perception/sensation is biased and limited.
-- People do not *always* have complete agency (i.e. free-will)—as in the example of a drug addict or a compulsive gambler—nor are our actions always determined. The free-will/determinism dichotomy is a false one.
+- Human sensation and perception are biased and limited.
+- People do not *always* have complete agency (i.e. free-will)—as in the example of a drug addict or a compulsive gambler—nor are our actions always determined. The free-will / determinism dichotomy is a false one.
 - As evidence for free-will: people have the capacity to do things of their own volition, even to change deep-seated habits (although this is almost always much harder than we imagine).
 - People are limited in their ability to know themselves, both individually and as a group, culture, or species.
-- People are not essentially rational or irrational. We have a well-developed brain affording reflective reasoning, though we also have vestiges of a faster, earlier-animal brain (Systems I & II, in the language of cognitive psychology).
+- People are not essentially rational or irrational. We have a well-developed brain affording reflective reasoning, though we also have vestiges of a faster, earlier-animal brain (Systems I and II, in the language of cognitive psychology).
 - That rational or reflective part is powerful. It allows us to explore and learn a lot about the universe, find meaning, deduce truth, and change for the better or worse.
 - Yet we also often use quicker cognitive systems–heuristics, biases, emotional impulses–that have their own value.
 - Both systems have pitfalls.
@@ -170,10 +172,10 @@ How I believe I should approach life. These are all opt-in and apply only to mys
 - I should face things that make me uncomfortable.
 - I should take responsibility for things I find important, even if I can’t fully control them.
 
-#### 2.2 Political & Economical Opinions
+#### 2.2 Political and Economical Opinions
 How I believe society should be structured.
 
-- Civil unions & holy matrimony (i.e. religious marriage) should be considered as separate though similar and often overlapping things.
+- Civil unions and holy matrimony (i.e. religious marriage) should be considered as separate though similar and often overlapping things.
 - The death penalty is no longer necessary to protect society. When the death penalty is justified, vindictive retribution, which is harmful for society, is fueled. Furthermore, wrongful convictions still happen, leading to murder by the state. For these reasons, the death penalty should be indefinitely suspended.
 - Prisons should protect the public and rehabilitate inmates; this may involve both punishment and better treatment.
 - Marijuana should be legalized and regulated like alcohol; convicts serving sentences due to marijuana should be pardoned and released.
@@ -209,7 +211,7 @@ Again, per [Buster Benson](http://wayoftheduck.com/codex-vitae):
 ### Articles 
 Writing I've loved and revisit often.
 
-#### On Being & Meaning
+#### On Being and Meaning
 
 * [This is Water](http://metastatic.org/text/This%20is%20Water.pdf), David Foster Wallace
 
